@@ -1,0 +1,13 @@
+Truck Type,Plate Number,Model,Test Date,Empty Vehicle Weight,Max Load Weight,Delivery Job Number,Fuel Consumption Rate,Mileage,Trailer/Tanker Empty Weight,Trailer/Tanker Max Load Weight,Sealing test Date,Tanker Max Volume,Min Temperature,Cooling Fuel Consumption Rate,Refrigerator Test Date
+Truck,12345680,Scania,20/01/2021,8000,10000,0,3.5,12000,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+SemiTrailer,12345681,Buggati,03/05/2020,5500,11000,0,3.7,60000,1200,10000,N/A,N/A,N/A,N/A,N/A
+Truck,12345682,Tesla,07/09/2020,7000,12000,1,4,553156,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Truck,12345683,Toyota,02/07/2020,7500,10000,5,4.2,551822,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+RefrigerationTruck,12345684,Tesla,09/11/2020,9000,11000,0,3.1,56224,N/A,N/A,N/A,N/A,-20,0.3,08/07/2020
+SemiTrailer,12345685,Buggati,22/02/2020,6000,11500,0,3.6,912651,2000,12000,N/A,N/A,N/A,N/A,N/A
+TankerTruck,12345686,Scania,27/08/2019,5700,13000,0,3.3,126566,1000,8000,22/03/2019,9000,N/A,N/A,N/A
+RefrigerationTruck,12345687,Tesla,17/08/2020,9200,9000,2,2.9,516863,N/A,N/A,N/A,N/A,-15,0.7,16/10/2018
+TankerTruck,12345688,Toyota,14/04/2020,5200,11000,7,3.4,535982,600,8000,02/02/2021,8500,N/A,N/A,N/A
+SemiTrailer,12345689,Mazda,02/08/2019,5300,8500,0,3.5,235462,850,11000,N/A,N/A,N/A,N/A,N/A
+TankerTruck,12345690,Buggati,06/02/2021,5900,10000,0,3.8,226988,900,8500,06/02/2020,10000,N/A,N/A,N/A
+RefrigerationTruck,12345691,Mazda,07/03/2019,8300,13000,0,3.2,566889,N/A,N/A,N/A,N/A,-13,0.4,07/03/2015
